@@ -1,7 +1,7 @@
 #!/usr/bin/newlisp
 
-(load "words.lsp")
-; Words:Words list holds random spread of words
+(load "words.lsp")   ; Words list holds random spread of words
+(load "gtk.lsp")
 
 (setf level 0)
 (setf score 0)
@@ -21,7 +21,7 @@
                         ; get the next word to display
                         (if (= 0 (% time_remaining new_word_delay))
                           (begin
-                            (setf word (pop Words:Words))
+                            (setf word (pop Words))
                             ; replace with gtk label update
                             (println time_remaining " " word)
                             ))
