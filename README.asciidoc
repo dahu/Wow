@@ -1,0 +1,16 @@
+Wow, Redux
+==========
+
+I don't remember who I stole this original idea from, but they probably stole
+it from someone before them, so we're good, right?
+
+Wow! is not World of Warcraft. If you came here for that, you must be
+feeling pretty pissed about now. Oops.
+
+Wow! *is* a Second Language (ESL) game where the student has to guess the
+meanings of a series of words or phrases without the use of body language,
+native language (non-focus-language) (non-English), sound-effects, spelling or
+cheating in any other way (as decided by the teacher) within a time limit.
+
+This is a re-implementation (from a JS/HTML version I wrote in 2007) of the Wow
+idea in newLISP. It's not ready for general consumption yet.
