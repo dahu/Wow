@@ -1,5 +1,5 @@
 Wow, Redux
-==========
+----------
 
 I don't remember who I stole this original idea from, but they probably stole
 it from someone before them, so we're good, right?
